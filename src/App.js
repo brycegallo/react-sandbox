@@ -1,10 +1,10 @@
 import './App.css';
-import UseRefExample1 from './components/UseRefExample1';
+import UseMemoExample from './components/UseMemoExample';
 
 function App() {
   return (
     <div className="container mt-5">
-      <UseRefExample1 />
+      <UseMemoExample />
     </div>
   );
 }
